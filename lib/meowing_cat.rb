@@ -5,3 +5,4 @@ attr_writer :meow
  
 end
 
+maru.meow
