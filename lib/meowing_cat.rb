@@ -1,9 +1,8 @@
 class Cat
   
-raja = Cat.new
-raja = "Raja"
-raja.name
-  
+  attr_accessor :name
+ 
+end
   
   
   
