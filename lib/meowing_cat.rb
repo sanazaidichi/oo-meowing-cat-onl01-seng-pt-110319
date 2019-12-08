@@ -11,3 +11,4 @@ maru.name
 maru.meow
 
 puts "meow!"
+end 
